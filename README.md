@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BJohnBraddock
 - 👀 I’m interested in Machine Learning Applications in Biomedical Science
-- 🌱 I’m currently learning MATLAB, python numpy, and TensorFlow
+- 🌱 I’m currently learning MATLAB, python numpy, and PyTorch
 - 💞️ I’m looking to collaborate on Machine Learning medical research projects
 
 <!---
